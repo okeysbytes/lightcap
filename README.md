@@ -8,5 +8,6 @@ For example, the first time a reader encounters the word "Class" or the phrase
 "case sensitive" they can quickly refer to this website for necessary explanations. 
 Thereafter, they can return to the book, and continue with their reading. 
 Remember, the goal is for the reader to become more familiar with computer
-programming by patiently reading a substantial chunk of the book.
+programming by patiently reading a substantial chunk of the book, "A Peek into Java
+for Nigerian Teenagers.
 
